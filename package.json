@@ -2,11 +2,12 @@
   "name": "clipboard-helper",
   "version": "1.0.0",
   "description": "A simple utility to copy and paste text using Clipboard API.",
+  "type": "module",
   "main": "src/clipboard-helper.js",
   "module": "src/clipboard-helper.js",
   "types": "src/clipboard-helper.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [
     "clipboard",
