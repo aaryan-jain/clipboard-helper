@@ -1,6 +1,6 @@
 {
   "name": "clifford-clipboard-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility to copy and paste text using Clipboard API.",
   "type": "module",
   "main": "src/clipboard-helper.js",
